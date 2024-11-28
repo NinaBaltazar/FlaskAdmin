@@ -1,0 +1,4 @@
+python==3.11.9
+Flask==3.0.3
+ipython==8.0.1
+flask-script==3.0.0
