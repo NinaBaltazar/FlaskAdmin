@@ -1,0 +1,40 @@
+/* Personalização para os botões */
+.btn-primary {
+    background-color: #ff69b4 !important; /* Cor rosa */
+    border-color: #ff69b4 !important;
+    color: white !important; /* Texto branco */
+}
+
+.btn-primary:hover {
+    background-color: #ff1493 !important; /* Rosa escuro ao passar o mouse */
+    border-color: #ff1493 !important;
+}
+
+/* Personalização para a navbar */
+.navbar {
+    background-color: #ffe4e1 !important; /* Rosa claro */
+    color: black !important;
+}
+
+/* Ajuste para links na navbar */
+.navbar .nav-link {
+    color: black !important;
+}
+
+.navbar .nav-link:hover {
+    color: #ff69b4 !important; /* Rosa ao passar o mouse */
+}
+
+/* Personalizações adicionais */
+.card-body {
+    background-color: #ffe4e1 !important; /* Fundo rosa claro */
+    color: black !important;
+}
+
+.card-body a {
+    color: #ff69b4 !important; /* Links em rosa */
+}
+
+.card-body a:hover {
+    color: #ff1493 !important; /* Rosa escuro ao passar o mouse */
+}
